@@ -1,0 +1,4 @@
+
+https://www.kaggle.com/datasets. Multitude of user created data sets.
+
+https://www.kaggle.com/anandhuh/latest-covid19-india-statewise-data. Statistcal representation of current COVID cases in India.
